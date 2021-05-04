@@ -3,6 +3,6 @@ using namesppace std;
 
 int main()
 {
-	cout<<"This is test 1";
+	cout<<"This is Test 1 in newgitdir";
 	return 0;
 }
